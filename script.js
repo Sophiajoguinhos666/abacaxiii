@@ -19,24 +19,6 @@ const perguntas = [
         ]
     },
 
-
-
-    {
-        enunciado: "No ambito ambiental, voce prefere:",
-        alternativas: [
-            {
-                texto: "  Aperte o botão se você pudesse assegurar a limpeza dos oceanos de todos os resíduos plásticos, mas isso implicaria na proibição de todos os plásticos novos por dez anos.",
-                afirmação: "afirmação",
-            },
-            {
-                texto: " Aperte o botão se você pudesse garantir que todas as fontes de energia no planeta se tornassem 100% renováveis, mas isso exigiria que você não pudesse usar veículos particulares e precisasse depender exclusivamente de transporte público e alternativas sustentáveis.",
-                afirmação: "afirmação",
-            },
-        ]
-    },
-
-
-
     {
         enunciado: "No ambito ambiental, voce prefere:",
         alternativas: [
