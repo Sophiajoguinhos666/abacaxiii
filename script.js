@@ -53,7 +53,7 @@ let perguntaAtual;
 
 function mostraPergunta (){
       perguntaAtual = perguntas[atual];
-      caixaPergunta.texteContent = perguntaAtual.enunciado;
+      caixaPergunta.textContent = perguntaAtual.enunciado;
 }
 
 mostraPergunta();
