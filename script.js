@@ -35,7 +35,7 @@ const perguntas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativas: [
             {
-                texto: "alternativa 5 Aperte o botão se você pudesse ter acesso ilimitado a qualquer avanço tecnológico e inovações futuras, mas isso significaria que você teria que abrir mão de todos os dispositivos tecnológicos atuais por cinco anos.",
+                texto: "Aperte o botão se você pudesse ter acesso ilimitado a qualquer avanço tecnológico e inovações futuras, mas isso significaria que você teria que abrir mão de todos os dispositivos tecnológicos atuais por cinco anos.",
                 afirmacao: "afirmação",
             },
             {
