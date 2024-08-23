@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "afirmação",
             },
             {
-                texto: "alternativa 2",
+                texto: "Aperte o botão se você pudesse ter um aumento significativo na sua inteligência e criatividade, mas isso significaria não conseguir mais se conectar emocionalmente com as pessoas da mesma forma que antes.   ",
                 afirmacao: "afirmação",
             },
         ]
@@ -22,11 +22,11 @@ const perguntas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativas: [
             {
-                texto: "alternativa 3",
+                texto: "  Aperte o botão se você pudesse assegurar a limpeza dos oceanos de todos os resíduos plásticos, mas isso implicaria na proibição de todos os plásticos novos por dez anos.   ",
                 afirmacao: "afirmação",
             },
             {
-                texto: "alternativa 4",
+                texto: " Aperte o botão se você pudesse garantir que todas as fontes de energia no planeta se tornassem 100% renováveis, mas isso exigiria que você não pudesse usar veículos particulares e precisasse depender exclusivamente de transporte público e alternativas sustentáveis.  ",
                 afirmacao: "afirmação",
             },
         ]
@@ -35,11 +35,12 @@ const perguntas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativas: [
             {
-                texto: "alternativa 5",
+                texto: "alternativa 5 Aperte o botão se você pudesse ter acesso ilimitado a qualquer avanço tecnológico e inovações futuras, mas isso significaria que você teria que abrir mão de todos os dispositivos tecnológicos atuais por cinco anos.",
                 afirmacao: "afirmação",
             },
             {
-                texto: "alternativa 6",
+                texto: "Aperte o botão se você pudesse ter um dispositivo que automaticamente utiliza se a sua saúde e bem-estar com base em dados biométricos em tempo real, mas isso significaria que você teria que abrir mão de todos os aplicativos de redes sociais e de entretenimento. 
+6",
                 afirmacao: "afirmação",
             },
         ]
