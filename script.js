@@ -39,8 +39,7 @@ const perguntas = [
                 afirmacao: "afirmação",
             },
             {
-                texto: "Aperte o botão se você pudesse ter um dispositivo que automaticamente utiliza se a sua saúde e bem-estar com base em dados biométricos em tempo real, mas isso significaria que você teria que abrir mão de todos os aplicativos de redes sociais e de entretenimento. 
-6",
+                texto: "Aperte o botão se você pudesse ter um dispositivo que automaticamente utiliza se a sua saúde e bem-estar com base em dados biométricos em tempo real, mas isso significaria que você teria que abrir mão de todos os aplicativos de redes sociais e de entretenimento.",
                 afirmacao: "afirmação",
             },
         ]
