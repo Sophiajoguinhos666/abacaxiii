@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Aperte o botão se você pudesse garantir a promoção de uma cultura de respeito e empatia em todos os ambientes de trabalho, mas isso significaria que você teria que abrir mão de algumas liberdades pessoais, como discutir opiniões controversas publicamente.",
-                afirmacao: "afirmação",
+                afirmacao: "vantagem: equilíbrio entre o bem coletivo (promoção de uma cultura de respeito e empatia). Desvantagem: impede sua liberdade individual",
             },
             {
                 texto: "Aperte o botão se você pudesse ter um aumento significativo na sua inteligência e criatividade, mas isso significaria não conseguir mais se conectar emocionalmente com as pessoas da mesma forma que antes.   ",
